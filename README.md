@@ -2,5 +2,5 @@
 
 how to build and execute:
 
-gcc main.c readfile.c -o main
-./main employees.txt
+1) gcc main.c readfile.c -o main
+2) ./main employees.txt
